@@ -1,0 +1,38 @@
+.person{
+    color: violet;
+    font-style: italic;
+    font-weight: bold;
+}
+a:link{
+    color:goldenrod;
+    font-style:italic;
+}
+a:visited{
+    color:darkgoldenrod;
+    font-style: italic;
+}
+a:hover{
+    cursor:cell;
+    font-style: italic;
+    font-weight: bold;
+}
+.cost{
+    font-weight: bold;
+    color: red;
+}
+.gap1{
+    color:goldenrod;
+    text-decoration-line: line-through;
+    text-decoration-style: dotted;
+}
+.gap2{
+   
+    color: red;
+    text-decoration-line: line-through;
+    text-decoration-style: dotted;
+}
+.closer{
+    color: goldenrod;
+    font-style:initial;
+    background-color: darkslategrey;
+}
